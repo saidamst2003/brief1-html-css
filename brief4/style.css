@@ -63,6 +63,29 @@ align-items: center;
 .landing-page img{
     font-size: 0px;
 }
+
+section{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    margin: 9px;
+    
+}
+
+
+section p{
+    font-size:  20px; 
+padding: 15px 10px;
+}
+section h1{
+    padding:5px;
+}
+section  img{
+    height: 40px ;
+    width: 40px;
+    }
+
+  
 button{
     padding: 10px 20px;
     color: #f7f5f5;
