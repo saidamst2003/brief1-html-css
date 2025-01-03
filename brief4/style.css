@@ -63,7 +63,6 @@ align-items: center;
 .landing-page img{
     font-size: 0px;
 }
-
 section{
     justify-content: space-between;
     display: flex;
@@ -71,10 +70,6 @@ section{
     margin: 9px;
     
 }
-
-
-
-
 section p{
     font-size:  20px; 
 padding: 15px 10px;
@@ -85,13 +80,22 @@ section h1{
 section  img{
     height: 40px ;
     width: 40px;
-    }
-
-  
+    }  
 button{
     padding: 10px 20px;
     color: #f7f5f5;
     background-color: #f28555;
     border: #f28555;
   border-radius: 15px;
+}
+
+.baaas {
+    background-color:#fdf0ea ;
+   width: 100%;
+   height: 160px;
+   text-align: center;
+}
+
+.baaas h2{
+   margin-top: 40px;
 }
