@@ -63,6 +63,10 @@ align-items: center;
 .landing-page img{
     font-size: 0px;
 }
+.question {
+    font-size: 30PX;
+
+}
 section{
     justify-content: space-between;
     display: flex;
@@ -93,9 +97,13 @@ button{
     background-color:#fdf0ea ;
    width: 100%;
    height: 160px;
-   text-align: center;
 }
-
 .baaas h2{
-   margin-top: 40px;
+    padding-top: 40px;
+    padding-left: 100px;
+}
+.baaas h5{
+    padding-left: 90px;
+    padding-top: 10px;
+   
 }
