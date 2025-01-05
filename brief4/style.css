@@ -3,10 +3,16 @@
     margin: 0;
 }
 .header{
+<<<<<<< HEAD
    padding-top: 2PX;
     background-color:#fdf0ea;
     height: 80px;
 
+=======
+    background-color:#fdf0ea;
+    height: 60px;
+   
+>>>>>>> fecccb9f5f5a7bde205568057648e082200405eb
 }
 .header a{
     padding: 0px 30px;
@@ -42,37 +48,61 @@ nav{
 
 li{
     display: inline;
+<<<<<<< HEAD
     padding: 10px 50px;
 
     
+=======
+>>>>>>> fecccb9f5f5a7bde205568057648e082200405eb
 }
 .landing-page{
     display: flex;
     justify-content: space-between;
+<<<<<<< HEAD
     padding: 100px 200px;
+=======
+    padding: 10px 30px;
+>>>>>>> fecccb9f5f5a7bde205568057648e082200405eb
 align-items: center;
 }
 .landing-page-pr{
  font-size: 30px;
+<<<<<<< HEAD
  padding-right: 300px;
+=======
+ padding: 10px 10px;
+>>>>>>> fecccb9f5f5a7bde205568057648e082200405eb
 
 }
 .landing-page-pr p{
     font-size: 22px;
+<<<<<<< HEAD
  
+=======
+
+>>>>>>> fecccb9f5f5a7bde205568057648e082200405eb
 }
 .landing-page a{
     color: #f28555;
 }
 .landing-page img{
     font-size: 0px;
+<<<<<<< HEAD
     padding-right:200px ;
 }
 
+=======
+}
+.question {
+    font-size: 30PX;
+
+}
+>>>>>>> fecccb9f5f5a7bde205568057648e082200405eb
 section{
     justify-content: space-between;
     display: flex;
     align-items: center;
+<<<<<<< HEAD
     margin: 10px 30px ;
     padding: 30px 40px;
 }
@@ -84,25 +114,45 @@ padding: none 10px;
 section h1{
     padding:5px;
 
+=======
+    margin: 9px;
+    
+}
+section p{
+    font-size:  20px; 
+padding: 15px 10px;
+}
+section h1{
+    padding:5px;
+>>>>>>> fecccb9f5f5a7bde205568057648e082200405eb
 }
 section  img{
     height: 40px ;
     width: 40px;
+<<<<<<< HEAD
     } 
   
 button{
     padding: 10px 20px;
     margin-right: 400px;
+=======
+    }  
+button{
+    padding: 10px 20px;
+>>>>>>> fecccb9f5f5a7bde205568057648e082200405eb
     color: #f7f5f5;
     background-color: #f28555;
     border: #f28555;
   border-radius: 15px;
 }
+<<<<<<< HEAD
 .question{
    font-size: 20px;
   margin-left: 40px;
   
 }
+=======
+>>>>>>> fecccb9f5f5a7bde205568057648e082200405eb
 
 .baaas {
     background-color:#fdf0ea ;
